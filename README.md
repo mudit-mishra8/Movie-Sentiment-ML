@@ -1,5 +1,5 @@
 ![alt text](https://wallpaperaccess.com/full/1898663.jpg)
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiKGFx02fNeIUuqHdaX7Wzk633n2vx7EYQQ&usqp=CAU)
+![alt text](https://i.ytimg.com/vi/P0o5U9pq8_s/maxresdefault.jpg)
 Welcome to my Movie Sentiment Analysis project! In this endeavor, I've delved into the exciting world of Natural Language Processing (NLP) to develop a sophisticated deep learning model that classifies movie reviews as either positive or negative. The sentiment analysis of user reviews is a powerful tool, with applications ranging from product recommendations to audience sentiment insights, and is paramount for stakeholders in the entertainment industry.
 
 ## Dataset
