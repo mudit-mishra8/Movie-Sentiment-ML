@@ -1,5 +1,5 @@
 <img src="https://wallpaperaccess.com/full/1898663.jpg" alt="Image 1" width="1500" height="400">
- ![alt text](https://www.servicenow.com/workflow/wp-content/uploads/2019/01/mobilesentiment-900x280-articleimage1.gif.imgo_.gif)
+ ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.servicenow.com%2Fworkflow%2Fit-transformation%2Fai-sentiment-analysis-upgrade%2F&psig=AOvVaw05Q07jNvkfo03gdI6lnY1e&ust=1686783157713000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj3iLCrwf8CFQAAAAAdAAAAABAE)
 
 
 Welcome to my Movie Sentiment Analysis project! In this endeavor, I've delved into the exciting world of Natural Language Processing (NLP) to develop a sophisticated deep learning model that classifies movie reviews as either positive or negative. The sentiment analysis of user reviews is a powerful tool, with applications ranging from product recommendations to audience sentiment insights, and is paramount for stakeholders in the entertainment industry.
