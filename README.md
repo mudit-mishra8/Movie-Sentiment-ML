@@ -26,7 +26,7 @@ Let's dive into the code and analysis!
 
 ## For code please check the python notebook attached below:
 
-clcik here [Jupyter Notebook](#)
+clcik here 👉 [Jupyter Notebook](https://github.com/mudit-mishra8/Movie-Sentiment-ML/blob/main/IMDB_sentiment_prediction.ipynb)
 
 ## Results
 The performance of the model was evaluated using a variety of metrics, including accuracy, precision, recall, and F1-score. Below is a summary of the results:
