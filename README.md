@@ -19,7 +19,7 @@ The dataset employed in this project contains 50,000 movie reviews from the IMDB
 
 5. **Model Evaluation**: The model's performance was assessed using various metrics such as accuracy, precision, recall, and F1-score, among others.
 
-6. **Sentiment Prediction Function**: Lastly, a user-friendly function was developed, which takes in a raw movie review as an input and returns the sentiment as either positive or negative by utilizing the trained deep learning model. Also i have developed a user friendly interaction, right click to open in a new tab! 👉 <a href="https://imdb-app.herokuapp.com/" target="_blank">MyMovieSentimentAnalyzer</a>
+6. **Sentiment Prediction Function**: Lastly, a user-friendly function was developed, which takes in a raw movie review as an input and returns the sentiment as either positive or negative by utilizing the trained deep learning model. Also i have created  a website for the same, right click to open in a new tab! 👉 <a href="https://imdb-app.herokuapp.com/" target="_blank">MyMovieSentimentAnalyzer</a>
 
 
 Feel free to explore the code and insights throughout this project. This endeavor demonstrates the potential of deep learning in NLP tasks and provides valuable insights into how the audience perceives movies based on their reviews. It is not just a classification task; it’s an amalgamation of data science techniques and natural language processing to create a model that understands human emotions from the text.
@@ -61,6 +61,4 @@ However, it’s not perfect. Sometimes it gets confused - for example, in some c
 This analysis demonstrates that using machine learning for sentiment analysis on IMDB movie reviews can be highly effective. The model performed well across various metrics. Such a model can be used, for example, by movie producers and directors to gauge public opinion about their movies based on reviews. It can also be a valuable tool for moviegoers looking to find a good movie to watch.
 
 
-```python
-
-```
+#### Hope you enjoyed! Thanks
