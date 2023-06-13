@@ -1,4 +1,4 @@
-![alt text](https://repository-images.githubusercontent.com/446393339/d4481b17-7960-4f3c-b040-8507df57f81b)
+![alt text](https://media.licdn.com/dms/image/C5616AQEzxKXCkTrjHQ/profile-displaybackgroundimage-shrink_200_800/0/1517749448133?e=2147483647&v=beta&t=L18CgWIny_6o_qWqG1XvIF_G3sY9MNLu0dwGx5e13W4)
 
 Welcome to my IMDB Sentiment Analysis project! In this endeavor, I've delved into the exciting world of Natural Language Processing (NLP) to develop a sophisticated deep learning model that classifies movie reviews as either positive or negative. The sentiment analysis of user reviews is a powerful tool, with applications ranging from product recommendations to audience sentiment insights, and is paramount for stakeholders in the entertainment industry.
 
